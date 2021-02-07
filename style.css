@@ -1,0 +1,53 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.5rem;
+    background-image: url(images/karate-wallpaper.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: transparent;
+}
+
+.brandlogo {
+    max-width: 50px;
+}
+
+.header {
+    margin: auto;
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: 'Francois One', sans-serif;
+}
+
+.main {
+    padding-left: 3rem;
+    margin: auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.main-lesson, .stance-lesson, .cooldown {
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.navbar {
+    padding-left: 0;
+}
+
+.navbar.transparent.navbar-inverse .navbar-inner {
+    background: rgba(0,0,0,0.4);
+ }
+
+.nav-item {
+    margin: 5px;
+    font-family: 'Francois One', sans-serif;
+}
+
+.nav-link {
+    color: black;
+}
+
+.nav-link:hover {
+    color: white;
+}
