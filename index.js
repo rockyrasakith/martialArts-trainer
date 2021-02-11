@@ -26,7 +26,7 @@ var stances = [
     'Zenkutsu-Dachi',
     'Kokutsu-Dachi',
     'Kiba-Dachi',
-    'Neko-Ashi-Dachi'
+    'Neko-Ashi-Dachi',
 ]
 
 //List of Cool Downs

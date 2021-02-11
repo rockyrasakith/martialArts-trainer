@@ -51,3 +51,7 @@ h1 {
 .nav-link:hover {
     color: white;
 }
+
+.body-text {
+    background-color: white;
+}
